@@ -12,20 +12,20 @@ O software tem como finalidade organizar o sistema online de um brechó. Ele sim
 
 ### Principais funcionalidades
 - **Administração de usuários**
-    - Cadastrar, excluir, alterar e consultar os dados de vendedores e compradores registrados na plataforma.
+    - Cadastrar, excluir, alterar e consultar os dados de usuários registrados na plataforma.
 - **Gerenciamento de produtos**
     - Cadastrar, excluir, alterar e consultar peças de vestuário disponíveis para venda no brechó, incluindo informações como descrição e preço.
-- **Gestão de vendas** 
-    - Gerenciar transações realizadas entre vendedores e compradores, incluindo status de pedidos e detalhes da venda.
+- **Gestão de compras** 
+    - Gerenciar compras realizadas, incluindo detalhes como data e comprador.
 
 ### Sistemas relacionados
 O sistema opera de forma autônoma e completa, sem a necessidade de integração com outras plataformas ou sistemas externos.
 
 ### Tipos de usuários
-- **Administrador**
-    - Responsável pela administração completa do sistema, abrangendo o controle de usuários, produtos e vendas.
 - **Vendedor**
     - Responsável por gerenciar seus produtos no sistema.
 - **Comprador**
     - Utiliza o sistema para consultar os produtos e realizar compras.
+
+### Estrutura de diretório
 
