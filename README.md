@@ -28,4 +28,9 @@ O sistema opera de forma autônoma e completa, sem a necessidade de integração
     - Utiliza o sistema para consultar os produtos e realizar compras.
 
 ### Estrutura de diretório
-
+```
+ReVeste/
+|-- Padrões Adotados/
+|   |-- Regras de Verificação e Analise de Requisitos.md
+|-- README.md
+```
