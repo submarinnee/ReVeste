@@ -32,6 +32,14 @@ O sistema opera de forma autônoma e completa, sem a necessidade de integração
 ReVeste/
 |-- Padrões Adotados/
 |   |-- Regras de Verificação e Analise de Requisitos.md
+|-- Requisitos/
+|   |-- docRequisitosVersao1.0.odt
+|-- |-- Diagrama de casos de uso/
+|-- |-- |-- compradorUML.png
+|-- |-- |-- usuarioUML.png
+|-- |-- |-- vendedorUML.png
+|-- Diagramas/
+|   |-- diagramaDeClasses.drawio.png
 |-- README.md
 ```
 ### Padronização de Commits
@@ -43,3 +51,20 @@ ReVeste/
 - **test:** adição ou modificação de testes.
 - **docs:** alterações na documentação.
 - **chore:** tarefas de manutenção do código, como atualização de dependências ou configurações.
+
+### Regras de programação
+
+- **Princípio da responsabilidade única** 
+    - Uma classe deve ter apenas uma responsabilidade no software.
+- **Nomenclatura**
+    - Ao nomear algo, é preciso considerar que os nomes precisam passar uma ideia do que a função, classe ou atributo representa.
+- **Funções pequenas**
+    -  As funções devem executar apenas uma tarefa e cumprir sua função da maneira mais simples possível.
+- **Duplicação de código**
+    - Não pode existir duas partes do código que realizem a mesma função.
+- **Comentários**
+    - Comentar somente o que for necessário e revisar os comentários juntamente com o código.
+- **Tratamento de erro**
+    - Quando algo der errado, o código deve fazer o que precisa ser feito para tratar os erros.
+
+
