@@ -34,3 +34,12 @@ ReVeste/
 |   |-- Regras de Verificação e Analise de Requisitos.md
 |-- README.md
 ```
+## Padronização de Commits
+
+- **feat:** adição de um novo recurso.
+- **fix:** correção de um bug.
+- **style:** alterações relacionadas à formatação ou estilo do código, sem impactar a lógica.
+- **refactor:** refatoração de uma parte específica do código, sem alterar sua funcionalidade.
+- **test:** adição ou modificação de testes.
+- **docs:** alterações na documentação.
+- **chore:** tarefas de manutenção do código, como atualização de dependências ou configurações.
