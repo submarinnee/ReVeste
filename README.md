@@ -34,7 +34,7 @@ ReVeste/
 |   |-- Regras de Verificação e Analise de Requisitos.md
 |-- README.md
 ```
-## Padronização de Commits
+### Padronização de Commits
 
 - **feat:** adição de um novo recurso.
 - **fix:** correção de um bug.
